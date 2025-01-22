@@ -24,6 +24,8 @@ sowie die Erstellung von Berichten zur Dokumentation der Ergebnisse.
 Die BASIC-Skripte, welche die Arbeitsschritte durch automatisierte Funktionen und Buttons in den Tabellenblättern unterstützen,
 wurden zum großen Teil mithilfe von ChatGPT erarbeitet und anschließend an die spezifischen Anforderungen des Projekts angepasst.
 
+# Anleitung zur Nutzung des Tools 
+
 ## Inhaltsverzeichnis
 1. [Strukturanalyse]
 2. [IT-Grundschutz-Modellierung]
