@@ -96,6 +96,7 @@ wurden zum großen Teil mithilfe von ChatGPT erarbeitet und anschließend an die
    - Definiere Risikobehandlungsmaßnahmen und aktualisiere die Werte nach der Umsetzung.
 
 5. **Erstellung des Risikoanalyse-Reports:**
+   - Stelle sicher dass vor der Generierung des **"Report zur Risikoanalys"** kein solcher Report mehr im Libre Office Dokument vorhanden ist.
    - Generiere den Bericht mit dem Button **"Erstelle Report zur Risikoanalyse"** auf dem Tabellenblatt **"Liste aller Assets"**.
    - Es wird eine Übersicht als Tabellenblatt **"Report zur Risikoanalyse"** und eine PDF-Datei erstellt.
 
